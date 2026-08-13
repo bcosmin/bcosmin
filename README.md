@@ -55,7 +55,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=bcosmin.bcosmin&"  />
 </div>
 
-### 📊 Most Used Languages
+###
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcosmin&layout=compact&theme=radical&hide_border=true" alt="Cosmin's Top Languages" />
