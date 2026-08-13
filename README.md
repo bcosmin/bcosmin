@@ -43,7 +43,7 @@
 * **[container-craft](https://github.com/bcosmin/container-craft)** — A modular factory engine for orchestrating and building optimized Docker container images using recipes, snippets, and clean configurations.
 * **[jenkins-dashboard](https://github.com/bcosmin/jenkins-dashboard)** — A centralized fleet monitoring application for tracking multiple Jenkins instances, tracking health status (online/offline), and providing quick navigation.
 * **[container-platform-stack](https://github.com/bcosmin/container-platform-stack)** — A complete multi-tier containerized stack (database, backend, frontend) orchestrated on Kubernetes and run on Linux.
-* **[Jenkins Shared Library](https://github.com/bcosmin)** — Enterprise-grade modular CI/CD pipeline library for standardizing software delivery workflows.
+* **[Jenkins Shared Library](https://github.com/bcosmin/nexus-shared-lib)** — Enterprise-grade modular CI/CD pipeline library for standardizing software delivery workflows.
 
 ###
 
@@ -55,14 +55,14 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=bcosmin.bcosmin&"  />
 </div>
 
-###
+<!-- ###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/bcosmin/bcosmin/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/bcosmin/bcosmin/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### -->
 
 <br clear="both">
 
