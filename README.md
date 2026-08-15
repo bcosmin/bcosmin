@@ -57,9 +57,9 @@
 
 ###
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcosmin&layout=compact&theme=radical&hide_border=true" alt="Cosmin's Top Languages" />
-</p>
+</p> -->
 
 <!-- ###
 
